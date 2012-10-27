@@ -1,0 +1,3 @@
+[submodule "src/libmojave-external"]
+	path = src/libmojave-external
+	url = git@github.com:mrnumber/libmojave.git
