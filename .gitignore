@@ -1,0 +1,10 @@
+*~
+*.cm*
+*.annot
+*.[oa]
+src/libmojave/lm_*
+*.omc
+.omakedb
+.config
+boot
+*.lock
